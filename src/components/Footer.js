@@ -6,19 +6,7 @@ export default class Footer extends Component {
       <footer>
       <div className="row">
         <div className="twelve columns">
-          <ul className="social-links">
-            {
-              resumeData.socialLinks && resumeData.socialLinks.map((item)=>{
-                return(
-                  <li>
-                    <a href={item.url}>
-                    <i className={item.className} />
-                    </a>
-                  </li>
-                )
-              })
-            }
-          </ul>
+        <p>&copy; 2023 Bahareh Izadpanah. All rights reserved.</p>
           
         </div>
         <div id="go-top"><a className="smoothscroll" title="Back to Top" href="#home"><i className="icon-up-open" /></a></div>
