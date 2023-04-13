@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/github.io/React-Portfolio-f/static/css/main.4152c3d3.css",
-    "main.js": "/github.io/React-Portfolio-f/static/js/main.f544a598.js",
-    "static/media/bahareh.jpeg": "/github.io/React-Portfolio-f/static/media/bahareh.9965b4f15ff16536aa39.jpeg",
-    "index.html": "/github.io/React-Portfolio-f/index.html",
-    "main.4152c3d3.css.map": "/github.io/React-Portfolio-f/static/css/main.4152c3d3.css.map",
-    "main.f544a598.js.map": "/github.io/React-Portfolio-f/static/js/main.f544a598.js.map"
+    "main.css": "/React-Portfolio-f/static/css/main.4152c3d3.css",
+    "main.js": "/React-Portfolio-f/static/js/main.cc3160c8.js",
+    "static/media/bahareh.jpeg": "/React-Portfolio-f/static/media/bahareh.9965b4f15ff16536aa39.jpeg",
+    "index.html": "/React-Portfolio-f/index.html",
+    "main.4152c3d3.css.map": "/React-Portfolio-f/static/css/main.4152c3d3.css.map",
+    "main.cc3160c8.js.map": "/React-Portfolio-f/static/js/main.cc3160c8.js.map"
   },
   "entrypoints": [
     "static/css/main.4152c3d3.css",
-    "static/js/main.f544a598.js"
+    "static/js/main.cc3160c8.js"
   ]
 }
