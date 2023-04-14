@@ -17,7 +17,7 @@ let resumeData = {
           "className":"fa fa-github"
         },
       ],
-    "aboutme":"I possess a unique blend of technical and analytical skills honed through my strong academic and practical background in law. After practicing intellectual property law for several years, I was drawn to the fast-paced and constantly evolving nature of software engineering, which led me to enroll in Ada Developer's Academy (A highly competitive with 10% acceptance rate, intensive, full-stack web development and computer science fundamentals training program with over 2000+ learning hours and 20+ projects delivered in solo, pair, and group environments) program. There, I gained an in-depth understanding some of the most valuable technologies, including Python, React, Kubernetes. My internship at Microsoft further solidified my passion for coding.",
+    "aboutme":"I have a unique blend of technical and analytical skills honed through my strong academic and practical background in law. After practicing intellectual property law for several years, I was drawn to the fast-paced and constantly evolving nature of software engineering, which led me to enroll in Ada Developers Academy where  I gained an in-depth understanding of some of the most valuable technologies, including Python, React, Kubernetes, and more. My internship at Microsoft further solidified my passion for coding. I am excited to continue developing my skills and contributing to innovative solutions that drive progress and growth in the technology field.",
     "address":"Boston, MA",
     "website":"https://b-izad.github.io/React-Portfolio-f/",
     "education":[
@@ -33,7 +33,7 @@ let resumeData = {
         "specialization":"LLM in Intellectual Proprty Law",
         "MonthOfPassing":"Jan",
         "YearOfPassing":"2019",
-        "Achievements":"Relevant Coursework: Copyright, patents, trademark law, e-commerce, and legal issues in high-tech startups and technology licensing"
+        "Achievements":"Relevant Coursework: Copyright, patents, trademark law, e-commerce, and legal issues in high-tech startups and technology licensing."
       }
     ],
     "work":[
@@ -56,13 +56,13 @@ let resumeData = {
     "skillsDescription":"",
     "skills":[
       {
-        "skillname":"css"
+        "skillname":"Python"
       },
       {
         "skillname":"JavaScript"
       },
       {
-        "skillname":"Reactjs"
+        "skillname":"React"
       },
       {
         "skillname":"HTML"
